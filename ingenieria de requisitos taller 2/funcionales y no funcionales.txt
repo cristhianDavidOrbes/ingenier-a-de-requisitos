@@ -1,0 +1,13 @@
+funcionales:
+1. crear una cuenta de usuario
+2. asociar informacion a la cuenta de credito
+3. no nesecita ingresar de nueo la informacion
+4. configurar su cuenta en uno o mas dispositivos
+6. compras realizadas con la tarjeta, el cliente
+acumula puntos, los cuales puede canjear por premios
+físicos.
+7.canjear puntos deve ser verificado telefonicamente
+no funcionales: 
+1. seguridad de informacion
+2. velocidad de carga de la aplicacion
+3.que el tiempo de carga a comprar la aplicacion sea rapida
