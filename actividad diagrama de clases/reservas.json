@@ -1,0 +1,29 @@
+{
+    "clientes": {
+        "3424": {
+            "codigo": 1,
+            "nombre": "sofia",
+            "direccion": "42422"
+        }
+    },
+    "reservas": [
+        {
+            "codigo": 1,
+            "dni_cliente": "3424",
+            "fecha_inicio": "2023-23-3",
+            "fecha_final": "2023-25-3",
+            "precio_total": 342432.0,
+            "coches": [
+                {
+                    "matricula": "234234",
+                    "modelo": "ferrari",
+                    "color": "azul",
+                    "marca": "londo",
+                    "precio_alquiler": 342432.0,
+                    "litros_gasolina": 45.0
+                }
+            ],
+            "coches_entregados": true
+        }
+    ]
+}

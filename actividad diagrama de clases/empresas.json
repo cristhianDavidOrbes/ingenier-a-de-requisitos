@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "arturo",
+        "empleados": [
+            {
+                "nombre": "pablo",
+                "edad": "12",
+                "sueldo_bruto": "3421423"
+            }
+        ],
+        "clientes": []
+    },
+    {
+        "nombre": "arturo",
+        "empleados": [],
+        "clientes": []
+    },
+    {
+        "nombre": "mercedes",
+        "empleados": [],
+        "clientes": []
+    },
+    {
+        "nombre": "fernades",
+        "empleados": [],
+        "clientes": []
+    }
+]
